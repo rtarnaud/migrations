@@ -1,5 +1,5 @@
 {
-    "name": "rtarnaud/migrations",
+    "name": "doctrine/migrations",
     "type": "library",
     "description": "Database Schema migrations using Doctrine DBAL",
     "keywords": ["migrations", "database"],
